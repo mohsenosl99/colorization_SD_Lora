@@ -1,0 +1,36 @@
+# Core Deep Learning
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+
+# Hugging Face
+transformers==4.46.0
+diffusers==0.32.0.dev0
+accelerate==1.0.1
+peft==0.13.2
+huggingface-hub==0.26.1
+
+# Data handling
+numpy==1.26.3
+pandas==2.2.3
+scipy==1.15.1
+pyarrow==18.0.0
+
+# Image processing & metrics
+Pillow==10.2.0
+kornia==0.7.4
+lpips==0.1.4
+pytorch-fid==0.3.0
+
+# Jupyter & Notebook support
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
+ipywidgets==8.1.5
+matplotlib==3.9.2
+
+# Utilities
+tqdm==4.66.5
+requests==2.32.3
+wandb==0.18.7
+
